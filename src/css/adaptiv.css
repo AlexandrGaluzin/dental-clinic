@@ -1,0 +1,21 @@
+@import url(style.css);
+
+/* laptop - от 1024px до 768px */
+@media screen and (max-width: 1024px) {
+
+}
+
+/* tablet - от 768 до 425 px */
+@media screen and (max-width: 768px) {
+
+}
+
+/* mobile l - от 425px до 375px */
+@media screen and (max-width: 425px) {
+ 
+}
+
+/* mobile m - от 375px до 320px */
+@media screen and (max-width: 375px) {
+ 
+}
