@@ -46,7 +46,7 @@ body {
 
 #main-header-menu {  
     display: flex;
-    gap: 30px;
+    gap: 50px;
 }
 
 #main-header-menu a.menu-item {
